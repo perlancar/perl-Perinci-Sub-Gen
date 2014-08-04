@@ -6,7 +6,6 @@ our %common_args = (
     name => {
         summary => "Generated function's name, e.g. `myfunc`",
         schema => 'str*',
-        req => 1,
     },
     package => {
         summary => "Generated function's package, e.g. `My::Package`",
