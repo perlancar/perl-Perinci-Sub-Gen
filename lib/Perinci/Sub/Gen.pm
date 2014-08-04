@@ -1,6 +1,9 @@
 package Perinci::Sub::Gen;
 
+# DATE
 # VERSION
+
+use 5.010001;
 
 our %common_args = (
     name => {
