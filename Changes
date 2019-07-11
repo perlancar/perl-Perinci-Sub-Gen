@@ -1,4 +1,4 @@
-0.03    2015-09-04 (PERLANCAR)
+0.03    2015-09-04  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,12 +7,12 @@
 	  requirement.
 
 
-0.02     2014-08-04 (SHARYANTO)
+0.02     2014-08-04  Released-By: SHARYANTO
 
          - Make 'name' argument optional (it's only required if we do install).
 
 
-0.01     2012-08-10 (SHARYANTO)
+0.01     2012-08-10  Released-By: SHARYANTO
 
          - First release. Split to avoid circular dependency problem of Perinci
            -> Setup::Symlink -> Perinci::Sub::Gen::Undoable -> Perinci::Sub::Gen
